@@ -1,0 +1,15 @@
+C:\Users\mkamiss1\source\repos\AgeForLoop\bin\Debug\net6.0\AgeForLoop.exe
+C:\Users\mkamiss1\source\repos\AgeForLoop\bin\Debug\net6.0\AgeForLoop.deps.json
+C:\Users\mkamiss1\source\repos\AgeForLoop\bin\Debug\net6.0\AgeForLoop.runtimeconfig.json
+C:\Users\mkamiss1\source\repos\AgeForLoop\bin\Debug\net6.0\AgeForLoop.dll
+C:\Users\mkamiss1\source\repos\AgeForLoop\bin\Debug\net6.0\AgeForLoop.pdb
+C:\Users\mkamiss1\source\repos\AgeForLoop\obj\Debug\net6.0\AgeForLoop.csproj.AssemblyReference.cache
+C:\Users\mkamiss1\source\repos\AgeForLoop\obj\Debug\net6.0\AgeForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkamiss1\source\repos\AgeForLoop\obj\Debug\net6.0\AgeForLoop.AssemblyInfoInputs.cache
+C:\Users\mkamiss1\source\repos\AgeForLoop\obj\Debug\net6.0\AgeForLoop.AssemblyInfo.cs
+C:\Users\mkamiss1\source\repos\AgeForLoop\obj\Debug\net6.0\AgeForLoop.csproj.CoreCompileInputs.cache
+C:\Users\mkamiss1\source\repos\AgeForLoop\obj\Debug\net6.0\AgeForLoop.dll
+C:\Users\mkamiss1\source\repos\AgeForLoop\obj\Debug\net6.0\refint\AgeForLoop.dll
+C:\Users\mkamiss1\source\repos\AgeForLoop\obj\Debug\net6.0\AgeForLoop.pdb
+C:\Users\mkamiss1\source\repos\AgeForLoop\obj\Debug\net6.0\AgeForLoop.genruntimeconfig.cache
+C:\Users\mkamiss1\source\repos\AgeForLoop\obj\Debug\net6.0\ref\AgeForLoop.dll
