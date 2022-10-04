@@ -1,35 +1,27 @@
-namespace CharacterCount
+namespace AgeForLoop
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             //declare variables
-            string phrase,
-                character;
-            int length,
-                characterCount = 0;
+            string number;
+            int  length;
 
-            //input phrase
-            Console.Write("Input a string (it can be anything): ");
-            phrase = Console.ReadLine();
-            Console.Write("Input a character you'd like to count within the string: ");
-            character = Console.ReadLine();
-            length = phrase.Length;
+            //input number/string
+            Console.Write("Enter a number: ");
+            number = Console.ReadLine();
+            length = number.Length;
             //loop
-            //- get length of string
-            //- Go through letters and add to characterCount if substring = character
-            for(int start = length - 1; start >= 0; start--)
-            {
-                if (phrase.Substring(start, 1) == character)
-                {
-                    characterCount++;
-                }
-            }
+            // - get length of the string
+            // - start at the end of the string and change the index to the beginning (0) in a for loop
 
-            Console.WriteLine($"Character count: {characterCount}");
+            for (int start = length - 1; start >= 0; start--)
+            {
+                Console.WriteLine(number.Substring(start, 1));
+            }  
+
             Console.ReadLine();
-               
         }
     }
 }
